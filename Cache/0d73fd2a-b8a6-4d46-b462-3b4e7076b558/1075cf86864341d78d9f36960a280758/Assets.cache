@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8dbf3f53-b2fc-45a3-8925-476b7a693f30: 0d73fd2a-b8a6-4d46-b462-3b4e7076b558/1075cf86864341d78d9f36960a280758/Data/Contrast.png
+  Assets:
+    - !<FileTexture/8dbf3f53-b2fc-45a3-8925-476b7a693f30>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 16
+  SourceHash: 1075cf86864341d78d9f36960a280758
+  FileHash: e98608e818c577cd2b2f8cd44d1b3370
+  NativePackageItems:
+    []

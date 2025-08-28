@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3b817084-82a6-4311-a8ae-07b79a453388: cece3793-fdb5-4fea-8fcd-fe1eae651a87/f5afa0034aa3ed237a784e3646077ee4/Data/FaceMask.png
+  Assets:
+    - !<FileTexture/3b817084-82a6-4311-a8ae-07b79a453388>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1482
+        Height: 2000
+  SourceHash: f5afa0034aa3ed237a784e3646077ee4
+  FileHash: ca84a54b998f8706a79d1b90536f56e2
+  NativePackageItems:
+    []

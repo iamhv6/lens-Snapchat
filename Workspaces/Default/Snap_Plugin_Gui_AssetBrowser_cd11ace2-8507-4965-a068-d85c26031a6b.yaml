@@ -1,0 +1,18 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 12
+    values:
+      - Color Correction.mat
+      - Contrast.png
+      - Face Mask.mat
+      - FaceMask.png
+      - FaceMaskOpacity.jpg
+      - Image 2.mat
+      - Image.mat
+      - Image.png
+      - ScreenTexture.screenTexture
+      - Upper Body Mesh.upperBodyMesh
+      - color_correction.ss_graph
+      - flat.ss_graph
+  options: 4

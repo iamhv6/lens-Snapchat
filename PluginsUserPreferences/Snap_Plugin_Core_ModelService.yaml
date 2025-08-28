@@ -1,0 +1,10 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 0d73fd2a-b8a6-4d46-b462-3b4e7076b558: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/ColorCorrectionMaterial/Resources/Contrast.png"
+    - 2e33dd15-1f1d-4a02-9430-d521934adf38: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/Resources/flat.ss_graph"
+    - 82b2f786-d445-4e1d-bff2-2bc7d6c95fc0: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/ImageMaterial/Resources/Image.png"
+    - 93c310f3-fbb2-4727-a516-15a96b5548ec: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/FaceMaskMaterial/Resources/FaceMaskOpacity.jpg"
+    - cece3793-fdb5-4fea-8fcd-fe1eae651a87: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/FaceMaskMaterial/Resources/FaceMask.png"
+    - e5f9e938-ef02-41a5-ad9f-0c8dd1b41bd3: "C:/Devlopment/Snap/Lens/JsPlugins/PresetsRegistry/Assets/ColorCorrectionMaterial/Resources/color_correction.ss_graph"
+  options: 4

@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/1331f717-3196-4bd2-b141-4bf80c0ba2f1>
+  ImportedAssetIds:
+    UpperBodyMesh: !<reference> da53f32b-dbf2-4288-b7dd-cfe4d30e0206
+  ImporterName: UpperBodyMeshImporter
+  PrimaryAsset: !<reference> da53f32b-dbf2-4288-b7dd-cfe4d30e0206
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
